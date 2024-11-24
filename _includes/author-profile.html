@@ -49,6 +49,15 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai .ai-scopus-square ai-fw" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
+      {% if author.osf %}
+        <li><a href="{{ author.osf }}"><i class="ai ai-impactstory ai-fw"></i> Open Science Framework</a></li>
+      {% endif %}
+      {% if author.vidwan %}
+        <li><a href="{{ author.vidwan }}"><i class="ai ai-impactstory ai-fw"></i> Vidwan (India) </a></li>
+      {% endif %}
+      {% if author.researchid %}
+        <li><a href="{{ author.researchid }}"><i class="ai ai-impactstory ai-fw"></i> ResearchID</a></li>
+      {% endif %}
       {% if author.growkudos %}
         <li><a href="{{ author.growkudos }}"><i class="ai .ai-scopus-square ai-fw" aria-hidden="true"></i> GrowKudos</a></li>
       {% endif %}
