@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course - B.Tech CYS [7th Sem]"
 permalink: /teaching/2024_20CYS402-Distributed-Systems-and-Cloud-Computing
 venue: "AB3-F203, TIFAC-CORE in Cyber Security, Amrita School of Computing, Amrita Vishwa Vidyapeetham"
-date: July, 2024 - Dec, 2024
+date: Jul, 2024 - Nov, 2024
 location: "Coimbatore, India"
 ---
 
