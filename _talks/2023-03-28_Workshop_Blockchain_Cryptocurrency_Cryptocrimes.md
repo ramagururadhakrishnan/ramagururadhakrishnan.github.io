@@ -1,5 +1,5 @@
 ---
-title: "One Workshop on Blockchain, Cryptocurrency and Cryptocrime Investigations"
+title: "One Day Workshop on Blockchain, Cryptocurrency and Cryptocrime Investigations"
 collection: talks
 type: "Workshop"
 permalink: /talks/2023-03-28_Workshop_Blockchain_Cryptocurrency_Cryptocrimes
