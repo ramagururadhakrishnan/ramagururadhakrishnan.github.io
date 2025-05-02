@@ -1,7 +1,7 @@
 ---
 title: "24AL733 - Connected Vehicles and Security"
 collection: teaching
-type: "Undergraduate and Postgraduate Course - M.Tech ALE [2nd Sem]"
+type: "Postgraduate Course - M.Tech ALE [2nd Sem]"
 permalink: /teaching/2025_24AL733-Connected_Vehicles_and_Security
 venue: "B-403A, Amrita School of Engineering, Amrita Vishwa Vidyapeetham"
 date: Dec, 2024 - Apr, 2025
