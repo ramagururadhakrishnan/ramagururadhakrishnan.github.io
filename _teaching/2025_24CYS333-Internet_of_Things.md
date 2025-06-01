@@ -11,10 +11,8 @@ location: "Coimbatore, India"
 ![](https://img.shields.io/badge/Students-72-blue) 
 ![](https://img.shields.io/badge/Mini--Projects_Completed-24-blue)
 ![](https://img.shields.io/badge/Publications-TBD-blue) <br/>
-![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) 
-![](https://img.shields.io/badge/Average_Marks-TBD-blue) 
-![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
-![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
+![](https://img.shields.io/badge/Pass_Percent-98.61-darkgreen) ![](https://img.shields.io/badge/Average_Marks-65.19-blue) <br/> 
+![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
 
 ## Project 
 
@@ -44,6 +42,3 @@ location: "Coimbatore, India"
 |  [IoT#22](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT22) | [N.Ved Varshith Reddy]() <br/> S S S Sri Chakri <br/> Rudra Srilakshmi | [IoT-Enabled Noise Level Monitoring and Alert System for Urban Areas](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT22) | 
 |  [IoT#23](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT23) | Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag reddy <br/> [Vishal R S]() | [IoT-Based Smart Lighting with Adaptive Brightness and Motion Detection](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT23) |
 |  [IoT#24](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT24) | R M Naren Adithya  <br/> Ramraj S <br/> [B Vijay Nishanth]() | [Developing an IoT-Enabled Air Quality Monitoring System for Smart Cities](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT24) |
-
-
-
