@@ -12,6 +12,14 @@ location: "Kalasalingam University, Madurai"
 **Organised by:** Kalasalingam University, Madurai <br/>
 **Represented:** Amrita Vishwa Vidyapeetham, Coimbatore <br/>
 
+Poster
+---
+<p align="center">
+   <img src="https://ramagururadhakrishnan.github.io/images/2024_ChinthanDiwas.jpeg" width="700" />
+</p>
+
+YouTube Link
+---
 <p align="center">
    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZsJ-Rvjrq2Q" frameborder="0" allowfullscreen></iframe>
 </p>
