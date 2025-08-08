@@ -19,7 +19,8 @@ location: "Coimbatore, India"
 |                            Name                            |           Role         |      Dept      |
 |:-----------------------------------------------------------|:----------------------:|:--------------:|
 | [Mr. Garrepalli Varshith](https://github.com/GVR2007)      |        Member          |      CSE       |
+| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        Member          |      CSE       |
 | [Mr. Vignesh V S](https://github.com/Vigneshvs2007)        |        Member          |      ECE       |
-| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        Member          |      EEE       |
-| [Mr. Sanjay G](https://github.com/sanhub52)                |        Member          |      MEE       |
-| [Ms. Mithuraa Senthilkumar](https://github.com/mith-sen)   |        SPOC            |      CSE       |
+| [Ms. Sivasankari S](https://github.com/sivasankari0109)    |        SPOC 1          |      EEE       |
+| [Mr. Sanjay G](https://github.com/sanhub52)                |        SPOC 2          |      MEE       |
+
