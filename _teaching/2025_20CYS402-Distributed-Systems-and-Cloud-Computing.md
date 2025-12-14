@@ -9,8 +9,8 @@ location: "Coimbatore, India"
 ---
 
 ![](https://img.shields.io/badge/Students-72-blue) <br/>
+![](https://img.shields.io/badge/Pass_Percent-100-darkgreen) ![](https://img.shields.io/badge/Average_Marks-72.68-blue) <br/> 
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) 
-![](https://img.shields.io/badge/Average_Marks-TBD-blue) 
 ![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
 ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
