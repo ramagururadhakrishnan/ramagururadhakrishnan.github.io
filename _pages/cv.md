@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* **Sep 2021 - Aug 2026: Doctoral Research**
-  * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+* **Sep 2021 - Feb 2027: Doctoral Research**
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 9.75/10
   * **Status:** Comprehensive Examination Completed
-  * **Area:** Formal Specification and Verification of Blockchain Smart Contracts
+  * **Title:** A Formal Methods Framework for Verifying Semantic Security and Incentive Robustness in Smart Contracts
   * **Thesis Advisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
-  * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
+  * **Thesis Co-Advisor:** [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy) and [Dr. Jevitha K P](https://www.amrita.edu/faculty/kp-jevitha/)
   
 * _**Jul 2017 - May 2019: M.Tech in Cyber Security**_
-  * TIFAC-CORE in Cyber Security, School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), School of Engineering, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **CGPA:** 8.61/10
-  * **Thesis Advisor:** Dr. M. Sindhu and Dr. K.V. Lakshmy
+  * **Thesis Advisor:** [Dr. M. Sindhu](https://www.amrita.edu/faculty/m_sindhu) and [Dr. K.V. Lakshmy](https://www.amrita.edu/faculty/kv-lakshmy)
   * **Thesis:** [Blockchain for the Internet of Vehicles](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-for-the-Internet-of-Vehicles)
   * **Responsibilities:**
     * 2017 - 2019: Student Coordinator, Cyber Security
@@ -51,27 +51,28 @@ Education
     * San Jose Matriculation Higher Secondary School, Mettupalayam 
     * **Percentage:** 83.73%
     * **Responsibilities:**
-      * 2003 - 2004: House Captain, Bluebells       
+      * 2003 - 2004: House Captain, Bluebells        
 
 Teaching Work Experience
 ======
-* **Jun 2023 - Present: Assistant Professor (Senior Grade)**
-  * TIFAC-CORE in Cyber Security, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+* **Jun 2023 - Present: Assistant Professor (Senior Grade) - Teaching Track**
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
       
 * **Sep 2021 - May 2023: Assistant Professor**
-  * TIFAC-CORE in Cyber Security, School of Engineering/Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
+  * [TIFAC-CORE in Cyber Security](https://www.amrita.edu/tag/tifac-core-in-cyber-security/), School of Engineering/Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/), Coimbatore
   * **Supervisor:** [Prof. M. Sethumadhavan](https://www.amrita.edu/faculty/m-sethu/)
   
 * **Non-Academic Responsibilities:**
-    * Jun 2025 - Present: Convenor - Institute Innovation Council (IIC)
-    * Dec 2024 - Present: Core Team Member - Institute Innovation Council (IIC)
+    * Jan 2026 - Present: Convener - Anokha TechFair & Exhibitions
+    * Aug 2025 - Present : Head - Outreach and Communication, [ICPC Asia West Amritapuri Regionals](https://amritaicpc.in/)
+    * Jun 2025 - Present: Convener - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
+    * Dec 2024 - Present: Core Team Member - [Institute Innovation Council (IIC)](https://www.amrita.edu/campus/coimbatore/iic)
     * Sept 2024 - Present: Dept. ICPC Coordinator 
-    * Mar 2024 - Present: Faculty Advisor - [Hyperledger India Chapter Student Society (HICSS) Chapter Amrita Vishwa Vidyapeetham](https://github.com/HICSS-Amrita)
-    * Nov 2023 - Present: Mentor - Anokha: TechFair & Exhibitions
+    * Nov 2023 - Dec 2025: Mentor - Anokha: TechFair & Exhibitions
     * Oct 2023 - Present: Faculty Advisor - [Amrita - Model United Nations (MUN) Society (A-MUNSO)]()
     * Jun 2023 - Present: Faculty Advisor - [Amrita Toastmasters Club (ATC)]()
-    * Feb 2023 - Present: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
+    * Feb 2023 - Dec 2025: Mentor - Anokha: Web, Multimedia, and Documentation (WMD)
     * 2023, 2024: Mentor - Cyber Awareness Month (CAM)
     * Nov 2022 - Present: Founder and Mentor - [KOLECT ](https://github.com/KOLECT-Amrita)
     * Sep 2022 - Present: Class Advisor - [22CYS B.Tech](https://github.com/re-bin-d-22ucys)
