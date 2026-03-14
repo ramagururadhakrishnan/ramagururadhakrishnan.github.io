@@ -14,7 +14,8 @@ location: "Coimbatore, India"
 ![](https://img.shields.io/badge/Pass_Percent-98.61-darkgreen) ![](https://img.shields.io/badge/Average_Marks-65.19-blue) <br/> 
 ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) ![](https://img.shields.io/badge/TLP_Feedback-TBD-blue) 
 
-## Project 
+Projects
+----------
 
 |        Team Number      | Team Members | Project Title | 
 |:-----------------------:|:-------------|:-------------|
@@ -43,19 +44,20 @@ location: "Coimbatore, India"
 |  [IoT#23](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT23) | Pavan Shanmukha Madhav Gunda <br/> Mothe Anurag reddy <br/> [Vishal R S]() | [IoT-Based Smart Lighting with Adaptive Brightness and Motion Detection](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT23) |
 |  [IoT#24](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT24) | R M Naren Adithya  <br/> Ramraj S <br/> [B Vijay Nishanth]() | [Developing an IoT-Enabled Air Quality Monitoring System for Smart Cities](https://github.com/Amrita-TIFAC-Cyber-Blockchain/24CYS333-Internet-of-Things/tree/main/Assets/Projects/IoT24) |
 
-## Swayam-NPTEL Examination: Jan - Apr 2025
+Swayam-NPTEL Examination: Jan - Apr 2025
+-------
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things/refs/heads/main/Assets/images/swayam_logo.png?token=GHSAT0AAAAAADHDIWC2ZI4O6CENUM2CRBKG2EV7H5Q" width=400 />
   <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/2025_24CYS333-Internet-of-Things/refs/heads/main/Assets/images/nptel_logo.jpg?token=GHSAT0AAAAAADHDIWC2RIHS56EWUEVSB3XA2EV7H4A" width=200 />
 </p>
 
-### Course and Exam Stats
+**Course and Exam Stats**
   - Duration of the Course: 12 Weeks (Jan to Apr 2025)
   - **No. of Candidates Certified in this Course: 38143**
   - No. of Credits Recommended: 3 or 4
 
-### Our Stats
+**Our Stats**
   -  No. of Students (expressed interest): 50 (45)
   -  No. of Students (Registered): 35
   -  No. of Students Attempted the Exam: 32
@@ -76,9 +78,10 @@ location: "Coimbatore, India"
   <i>Source:</i> <a href="https://nptel.ac.in/localchapter/statistics/6082/sem125"> NPTEL Local Chapter </a>
 </p>
 
-### SWAYAM-NPTEL Registered
+SWAYAM-NPTEL Registered
+-------
 
-#### Attended
+**Attended**
 
 |      Roll Number      |                 Name            |   Exam Location   (Session)       |  Internal Marks (25) |  External Marks (75)  |  Total Marks  |   Medal  |
 |:---------------------:|:--------------------------------|:----------------------------------|:--------------------:|:----------------:|:------------------:|:--------:|
