@@ -2,7 +2,7 @@
 title: "24CYS333 - Internet of Things"
 collection: teaching
 type: "Undergraduate Course - B.Tech CSE (CYS) [6th Sem]"
-permalink: /teaching/2025_24CYS333-Internet_of_Things
+permalink: /teaching/2024_24CYS333-Internet_of_Things
 venue: "AB3-F205, TIFAC-CORE in Cyber Security, Amrita School of Computing, Amrita Vishwa Vidyapeetham"
 date: Dec, 2024 - Apr, 2025
 location: "Coimbatore, India"
