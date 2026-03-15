@@ -6,7 +6,7 @@ permalink: /talks/2024-03-07_Panelist_Blockchain_Technology
 venue: " Kalasalingam University, Madurai"
 date: 2024-06-19
 topics:  Blockchain, 
-location: "Kalasalingam University, Madurai"
+location: "Kalasalingam University, Madurai, India"
 ---
 
 **Organised by:** Kalasalingam University, Madurai <br/>
