@@ -3,9 +3,9 @@ title: "Workshop on Philately and Postcrossing"
 collection: talks
 type: "Workshop"
 permalink: /talks/2019-11-22-workshop-philately
-venue: "LEF Matriculation School, Mettupalayam"
+venue: "LEF Matriculation School"
 date: 2019-11-22
-location: "Coimbatore, India"
+location: "Mettupalayam, Coimbatore, Tamil Nadu, India"
 ---
 
 **Organised by:** Department of Posts, Mettupalayam <br/>
