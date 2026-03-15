@@ -5,7 +5,7 @@ type: "Chief Guest"
 permalink: /talks/2016-10-15-chief-guest-apj
 venue: "San Jose Matriculation Higher Secondary School, Mettupalayam"
 date: 2016-10-15
-location: "Coimbatore, India"
+location: "Mettupalayam, Coimbatore, India"
 ---
 
 
