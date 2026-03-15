@@ -6,7 +6,7 @@ permalink: /talks/2025-08-07_06_FDP_Blockchain_Technology
 venue: "Central Block, Christ University, Lavasa, Pune"
 date: 2025-08-06 and 2025-08-07
 topics:  Blockchain, 
-location: "Pune"
+location: "Christ University, Lavasa, Pune, India"
 ---
 
 **Organised by:** School of Sciences, Christ University, Pune Lavasa Campus <br/>
