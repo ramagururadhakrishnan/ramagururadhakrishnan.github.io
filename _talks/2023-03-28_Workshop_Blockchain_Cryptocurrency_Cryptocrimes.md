@@ -6,7 +6,7 @@ permalink: /talks/2023-03-28_Workshop_Blockchain_Cryptocurrency_Cryptocrimes
 venue: "Dr, Settu Memorial Hall"
 date: 2023-03-28
 topics:  Blockchain, Cryptocurrency and Cryptocrime Investigations
-location: "Sree Saraswathi Thyagaraja College, Pollachi"
+location: "Sree Saraswathi Thyagaraja College, Pollachi, India"
 ---
 
 **Organised by:** Dept. of Digital and Cyber Forensic Science and Cyreack Association <br/>
