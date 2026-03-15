@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2014-02-10-rvs-software-engineering
 venue: "Dept. of Computer Science, RVS College of Engineering and Technology, Coimbatore"
 date: 2014-02-10
-location: "Coimbatore, India"
+location: " RVS College of Engineering and Technology, Coimbatore, India"
 ---
 
 
