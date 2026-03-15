@@ -3,10 +3,10 @@ title: "Recent Advances and Challenges in Artificial Intelligence, Machine Learn
 collection: talks
 type: "FDP"
 permalink: /talks/2023-03-07_ATAL_FDP_RACAMBT-2023
-venue: "Gokulakrishna Hall"
+venue: "Gokulakrishna Hall, CIR Block"
 date: 2023-03-07
 topics: Smart Contract Implementation using Solidity 
-location: "Amrita Vishwa Vidyapeetham, Coimbatore"
+location: "Amrita Vishwa Vidyapeetham, Coimbatore, India"
 ---
 
 **Sponsored by:** AICTE-ATAL <br/>
